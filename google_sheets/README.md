@@ -15,3 +15,5 @@ Click the link to preview
 
 - Google Sheets 104 -> [Contents](https://docs.google.com/spreadsheets/d/1b1fBD_57-nJrCHTvRVrLhfECwzSMpwYmg9Qpfq5pNUs/edit?usp=sharing)
   - Learning: FilterTool, Pivot Table
+
+- Google sheet with visualization [Link](https://docs.google.com/spreadsheets/d/1kYwHrX9QbM8hcdd26U_zyTK1yLGZl3McdZTEdBcKV8s/edit?usp=sharing)
