@@ -36,3 +36,7 @@
 9. API 🔗 รายงานผลการเกิดแผ่นดินไหวในประเทศไทย ภูมิภาคใกล้เคียง และข้อมูลการเกิดแผ่นดินไหวทั่วโลก 🌎 -- DSB09_ProjAPI.py
 
    9.1 Google colab [Link](https://colab.research.google.com/drive/1qrpP9xP1n7SzuWFj_ynqhRN1fY0Ksu5A?usp=sharing)
+
+10. 4 ข้อเจ๋งๆ เกี่ยวกับ Module csv -- TRN02_CSV_Module.py
+
+   10.1 Content blog [Link](https://feasibleth.com/surprise-module-csv/)
