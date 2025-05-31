@@ -39,4 +39,8 @@
 
 10. 4 ข้อเจ๋งๆ เกี่ยวกับ Module csv -- TRN02_CSV_Module.py
 
-   10.1 Content blog [Link](https://feasibleth.com/surprise-module-csv/)
+    10.1 Content blog [Link](https://feasibleth.com/surprise-module-csv/)
+
+11. มาลองฝึกทำ Cross-Validation ใน python กัน -- DSB12_SimpleLogistReg+CrossValid.py
+
+    11.1 Content blog [Link](https://feasibleth.com/py-cross-validation/)
