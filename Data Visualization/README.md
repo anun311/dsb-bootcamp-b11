@@ -13,3 +13,10 @@
 
 ![image](https://github.com/user-attachments/assets/ddda9716-dd74-4c65-bd9e-4522ed1c6f1d)
 
+4. PowerBI : Coffee Sales Report
+   
+   4.1 Live Stream [YouTube](https://youtube.com/live/cjnP3JM_UEU)
+   
+   4.2 Dataset+File:  DS_Employees.xlsx
+
+![image](https://github.com/user-attachments/assets/ffe6c49d-10b5-4db7-9d2e-d0d2ef75c2d1)
